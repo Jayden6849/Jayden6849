@@ -10,6 +10,7 @@
 
 <!-- 스탯 및 언어통계-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayden6849&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayden6849&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 포트폴리오 -->
