@@ -1,13 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!%20I'm%20Jayden&fontSize=80&fontAlignY=42" />
 
-### 🚀 About Me
-- Backend Developer specializing in Java and Spring Boot
-- Passionate about building scalable and maintainable web applications
-
-Feel free to reach out to me via [jayden6849@gmail.com](mailto:jayden6849@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/yourprofile)!
+## 👨‍💻 About Me
+- I am a backend developer specializing in Java and Spring Boot.
+- I commit to strong principles and trust in software development.
+- I prioritize system integrity with strict validation and clear separation of responsibilities.
+- I build reliable, maintainable applications balancing performance and scalability.
 
 <!-- 스택 -->
-## Stack
+## 🛠️ Stack
 
 | 분류               | 기술 스택 |
 |--------------------|-----------|
@@ -17,21 +17,22 @@ Feel free to reach out to me via [jayden6849@gmail.com](mailto:jayden6849@gmail.
 | **DevOps**         | <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="max-height:50px; margin-right:5px;" /> <img src="https://img.shields.io/badge/Apache_Tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black" alt="Tomcat" style="max-height:50px; margin-right:5px;" /> <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="max-height:50px; margin-right:5px;" /> <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" style="max-height:50px; margin-right:5px;" /> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" style="max-height:50px; margin-right:5px;" /> <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" style="max-height:50px; margin-right:5px;" /> |
 | **Tools**          | <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=eclipse&logoColor=white" alt="Eclipse" style="max-height:50px; margin-right:5px;" /> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" style="max-height:50px; margin-right:5px;" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="max-height:50px; margin-right:5px;" /> <img src="https://img.shields.io/badge/HeidiSQL-0A0A0A.svg?style=flat-square&logo=heidisql&logoColor=white" alt="HeidiSQL" style="max-height:50px; margin-right:5px;" /> <img src="https://img.shields.io/badge/RedisInsight-DC382D.svg?style=flat-square&logo=redis&logoColor=white" alt="RedisInsight" style="max-height:50px; margin-right:5px;" /> <img src="https://img.shields.io/badge/MobaXterm-3DA5D9.svg?style=flat-square&logo=microsoft&logoColor=white" alt="MobaXterm" style="max-height:50px; margin-right:5px;" /> |
 
-
-
-
-
 <!-- 스탯 및 언어통계-->
-## Statistics
+## 📈 Statistics
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayden6849&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayden6849&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 포트폴리오 -->
-## Project
+## 🚀 Project
 ### 프로젝트 이름(간단한 설명)
 * 핵심 기술
 * 주요 코드
 
-## Certifications
+<!-- 자격증 -->
+## 🎓 Certifications
 * 자격증 1
 * 자격증 2
+
+<!-- 연락처 -->
+## 📨 Contact
+Feel free to reach out to me via [jayden6849@gmail.com](mailto:jayden6849@gmail.com) <!--or connect on [LinkedIn](https://linkedin.com/in/yourprofile)! -->
