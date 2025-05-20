@@ -1,5 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!%20I'm%20Jayden&fontSize=80&fontAlignY=42" />
 
+### 🚀 About Me
+- Backend Developer specializing in Java and Spring Boot
+- Passionate about building scalable and maintainable web applications
+
+Feel free to reach out to me via [jayden6849@gmail.com](mailto:jayden6849@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/yourprofile)!
+
 <!-- 스택 -->
 ## Stack
 
@@ -26,6 +32,6 @@
 * 핵심 기술
 * 주요 코드
 
-## Licence
+## Certifications
 * 자격증 1
-* 자격증 2  
+* 자격증 2
