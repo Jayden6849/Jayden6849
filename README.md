@@ -7,7 +7,7 @@
 - I build reliable, maintainable applications balancing performance and scalability.
 
 <!-- 스택 -->
-## 🛠️ Stack
+## 🥞 Stack
 
 | 분류               | 기술 스택 |
 |--------------------|-----------|
