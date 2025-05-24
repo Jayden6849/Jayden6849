@@ -35,6 +35,6 @@
 
 <!-- 연락처 -->
 ## 📨 Contact
-Feel free to reach out to me via [jayden6849@gmail.com](mailto:jayden6849@gmail.com).
+Feel free to reach out to me via [jayden6849@gmail.com](mailto:jayden6849@gmail.com)
 
-You can also visit my blog at: [https://trycatchfinally.tistory.com](https://trycatchfinally.tistory.com).
+You can also visit my blog at: [https://trycatchfinally.tistory.com](https://trycatchfinally.tistory.com)
