@@ -35,4 +35,5 @@
 
 <!-- 연락처 -->
 ## 📨 Contact
-Feel free to reach out to me via [jayden6849@gmail.com](mailto:jayden6849@gmail.com) <!--or connect on [LinkedIn](https://linkedin.com/in/yourprofile)! -->
+Feel free to reach out to me via [jayden6849@gmail.com](mailto:jayden6849@gmail.com) <!--or connect on [LinkedIn](https://linkedin.com/in/yourprofile)! --> <br>
+You can also find more about what I'm working on at my blog: https://your-blog-url.com
