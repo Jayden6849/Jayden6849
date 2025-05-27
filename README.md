@@ -24,9 +24,17 @@
 
 <!-- 포트폴리오 -->
 ## 🚀 Project
-### 프로젝트 이름(간단한 설명)
-* 핵심 기술
-* 주요 코드
+### 💼 커스텀 그룹웨어 (무자코)
+* 기간: 2025.04.04 ~ 2025.05.23
+* 주요 기술: Java, Spring Boot, Thymeleaf, MariaDB, JPA, Redis, Docker, ngrok
+* 설명: 커스터마이징 가능한 그룹웨어 웹 애플리케이션
+* GitHub: [MJC Groupware](https://github.com/4559jacky/final_project)
+
+### ⚽ 풋살장 예약 중개 서비스 (축구미)
+* 기간: 2025.02.24 ~ 2025.03.11
+* 주요 기술: Java, Servlet/JSP, EL/JSTL, MariaDB, MyBatis
+* 설명: 축구를 사랑하는 사람들을 위한 풋살장 예약 및 팀 매칭 서비스
+* GitHub: [FootballMe](https://github.com/choeunsung21/semi_project)
 
 <!-- 자격증 -->
 ## 🎓 Certifications
