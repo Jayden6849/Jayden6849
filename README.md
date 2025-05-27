@@ -20,7 +20,7 @@
 <!-- 스탯 및 언어통계-->
 ## 📈 Statistics
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayden6849&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayden6849&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayden6849&layout=compact&theme=dark)
 
 <!-- 포트폴리오 -->
 ## 🚀 Projects
