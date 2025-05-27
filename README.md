@@ -23,7 +23,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayden6849&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 포트폴리오 -->
-## 🚀 Project
+## 🚀 Projects
 ### 💼 커스텀 그룹웨어 (무자코)
 * 기간: 2025.04.04 ~ 2025.05.23 (팀 프로젝트 / 6인)
 * 핵심 기술: Java, Spring Boot, Thymeleaf, MariaDB, JPA, Redis
@@ -34,12 +34,19 @@
 * 기간: 2025.02.24 ~ 2025.03.11 (팀 프로젝트 / 4인)
 * 핵심 기술: Java, Servlet/JSP, EL/JSTL, MariaDB, MyBatis
 * 설명: 축구를 사랑하는 사람들을 위한 풋살장 예약 및 팀 매칭 서비스
-* GitHub: [FootballMe](https://github.com/choeunsung21/semi_project)
+* GitHub: [Football Me](https://github.com/choeunsung21/semi_project)
 
 <!-- 자격증 -->
 ## 🎓 Certifications
 * 자격증 1
 * 자격증 2
+
+<!-- 교육 -->
+## 🎓 Education
+
+| 기관 | 과정명 | 기간 |
+|------|--------|------|
+| **구디 아카데미** | 클라우드 활용 자바 개발자 양성과정 수료 | 📅 2024.11.25 ~ 2025.05.23 |
 
 <!-- 연락처 -->
 ## 📨 Contact
