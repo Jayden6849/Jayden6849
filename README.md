@@ -56,3 +56,6 @@
 Feel free to reach out to me via [jayden6849@gmail.com](mailto:jayden6849@gmail.com)
 
 You can also visit my blog at: [https://trycatchfinally.tistory.com](https://trycatchfinally.tistory.com)
+
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=20" />
