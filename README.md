@@ -9,7 +9,7 @@
 <!-- 스택 -->
 ## 🥞 Stack
 
-| Cat.           | Description |
+| Cat.           | Tech Stack |
 |--------------------|-----------|
 | **Backend** | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-007396?logo=java&logoColor=white) ![Servlet](https://img.shields.io/badge/Servlet-007396?logo=java&logoColor=white) ![EL](https://img.shields.io/badge/EL-007396?logo=java&logoColor=white) ![JSTL](https://img.shields.io/badge/JSTL-007396?logo=java&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white) |
 | **Frontend**   | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) |
@@ -25,16 +25,18 @@
 <!-- 포트폴리오 -->
 ## 🚀 Projects
 ### 💼 Custom Groupware (Mujaco)
-* Period: 2025.04.04 ~ 2025.05.23 (Team Project / 6 members)
-* Core Technologies: Java, Spring Boot, Thymeleaf, MariaDB, JPA, Redis
-* Explanation: A customizable web-based groupware application.
-* GitHub: [MJC Groupware](https://github.com/4559jacky/final_project)
+*A customizable web-based groupware application.*
+
+* **Period**: 🗓️ 2025.04.04 ~ 2025.05.23 (Team Project / 👨‍💻6)
+* **Tech Stack**: ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white), ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white), ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white), ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white), ![JPA](https://img.shields.io/badge/JPA-007396?logo=java&logoColor=white), ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white), ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white), ![ngrok](https://img.shields.io/badge/ngrok-1A1A1A?logo=ngrok&logoColor=white)
+* **Link**: [MJC Groupware](https://github.com/4559jacky/final_project)
 
 ### ⚽ Futsal Court Reservation Platform (Chukgumi)
-* Period: 2025.02.24 ~ 2025.03.11 (Team Project / 4 members)
-* Core Technologies: Java, Servlet/JSP, EL/JSTL, MariaDB, MyBatis
-* Explanation: A futsal court reservation and team matching service for people who love football.
-* GitHub: [Football Me](https://github.com/choeunsung21/semi_project)
+*A futsal court reservation and team matching service for people who love football.*
+
+* **Period**: 🗓️ 2025.02.24 ~ 2025.03.11 (Team Project / 👨‍💻4)
+* **Tech Stack**: ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white), ![JSP](https://img.shields.io/badge/JSP-007396?logo=java&logoColor=white), ![Servlet](https://img.shields.io/badge/Servlet-007396?logo=java&logoColor=white), ![EL](https://img.shields.io/badge/EL-007396?logo=java&logoColor=white), ![JSTL](https://img.shields.io/badge/JSTL-007396?logo=java&logoColor=white), ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white), ![MyBatis](https://img.shields.io/badge/MyBatis-FF0000?logo=mybatis&logoColor=white)
+* **Link**: [Football Me](https://github.com/choeunsung21/semi_project)
 
 <!-- 자격증 -->
 ## 🎓 Certifications
