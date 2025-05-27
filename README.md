@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jayden's%20Github&fontSize=60&fontAlignY=28" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Jayden's%20Github&fontSize=60&fontAlignY=38" />
 
 ## 👨‍💻 About Me
 - I am a backend developer specializing in Java and Spring Boot.
