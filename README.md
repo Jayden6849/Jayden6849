@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!%20I'm%20Jayden&fontSize=80&fontAlignY=42" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jayden's%20Github&fontSize=60&fontAlignY=28" />
 
 ## 👨‍💻 About Me
 - I am a backend developer specializing in Java and Spring Boot.
@@ -9,7 +9,7 @@
 <!-- 스택 -->
 ## 🥞 Stack
 
-| 분류               | 기술 스택 |
+| Cat.           | Description |
 |--------------------|-----------|
 | **Backend** | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-007396?logo=java&logoColor=white) ![Servlet](https://img.shields.io/badge/Servlet-007396?logo=java&logoColor=white) ![EL](https://img.shields.io/badge/EL-007396?logo=java&logoColor=white) ![JSTL](https://img.shields.io/badge/JSTL-007396?logo=java&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white) |
 | **Frontend**   | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) |
@@ -24,29 +24,22 @@
 
 <!-- 포트폴리오 -->
 ## 🚀 Projects
-### 💼 커스텀 그룹웨어 (무자코)
-* 기간: 2025.04.04 ~ 2025.05.23 (팀 프로젝트 / 6인)
-* 핵심 기술: Java, Spring Boot, Thymeleaf, MariaDB, JPA, Redis
-* 설명: 커스터마이징 가능한 그룹웨어 웹 애플리케이션
+### 💼 Custom Groupware (Mujaco)
+* Period: 2025.04.04 ~ 2025.05.23 (Team Project / 6 members)
+* Core Technologies: Java, Spring Boot, Thymeleaf, MariaDB, JPA, Redis
+* Explanation: A customizable web-based groupware application.
 * GitHub: [MJC Groupware](https://github.com/4559jacky/final_project)
 
-### ⚽ 풋살장 예약 중개 서비스 (축구미)
-* 기간: 2025.02.24 ~ 2025.03.11 (팀 프로젝트 / 4인)
-* 핵심 기술: Java, Servlet/JSP, EL/JSTL, MariaDB, MyBatis
-* 설명: 축구를 사랑하는 사람들을 위한 풋살장 예약 및 팀 매칭 서비스
+### ⚽ Futsal Court Reservation Platform (Chukgumi)
+* Period: 2025.02.24 ~ 2025.03.11 (Team Project / 4 members)
+* Core Technologies: Java, Servlet/JSP, EL/JSTL, MariaDB, MyBatis
+* Explanation: A futsal court reservation and team matching service for people who love football.
 * GitHub: [Football Me](https://github.com/choeunsung21/semi_project)
 
 <!-- 자격증 -->
 ## 🎓 Certifications
 * 자격증 1
 * 자격증 2
-
-<!-- 교육 -->
-## 🎓 Education
-
-| 기관 | 과정명 | 기간 |
-|------|--------|------|
-| **구디 아카데미** | 클라우드 활용 자바 개발자 양성과정 수료 | 📅 2024.11.25 ~ 2025.05.23 |
 
 <!-- 연락처 -->
 ## 📨 Contact
