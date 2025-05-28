@@ -32,7 +32,7 @@
 
 * **Period**: 🗓️ 2025.04.04 ~ 2025.05.23
 
-* **Period**: Team Project / 👨‍💻6
+* **Team**: 👨‍💻6 (Team Project)
   
 * **Tech Stack**: ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white), ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white), ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white), ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white), ![JPA](https://img.shields.io/badge/JPA-007396?logo=java&logoColor=white), ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white), ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white), ![ngrok](https://img.shields.io/badge/ngrok-1A1A1A?logo=ngrok&logoColor=white)
   
@@ -43,7 +43,7 @@
 
 * **Period**: 🗓️ 2025.02.24 ~ 2025.03.11
 
-* **Period**: Team Project / 👨‍💻4
+* **Team**: 👨‍💻4 (Team Project)
   
 * **Tech Stack**: ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white), ![JSP](https://img.shields.io/badge/JSP-007396?logo=java&logoColor=white), ![Servlet](https://img.shields.io/badge/Servlet-007396?logo=java&logoColor=white), ![EL](https://img.shields.io/badge/EL-007396?logo=java&logoColor=white), ![JSTL](https://img.shields.io/badge/JSTL-007396?logo=java&logoColor=white), ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white), ![MyBatis](https://img.shields.io/badge/MyBatis-FF0000?logo=mybatis&logoColor=white)
   
